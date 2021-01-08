@@ -101,7 +101,7 @@
         },
 
     {
-      question: "Binary counter that count incrementally and decremently is called",  ///// Write the question inside double quotes
+      question: "2.Binary counter that count incrementally and decremently is called",  ///// Write the question inside double quotes
       answers: {
         a: "Up-down counter",                  ///// Write the option 1 inside double quotes
         b: "LSI counters",                  ///// Write the option 2 inside double quotes
@@ -112,7 +112,7 @@
     },
     
        {
-      question: "UP-DOWN counter is also known as",  ///// Write the question inside double quotes
+      question: "3.UP-DOWN counter is also known as",  ///// Write the question inside double quotes
       answers: {
         a: "Dual counter",                  ///// Write the option 1 inside double quotes
         b: "Multi counter",                  ///// Write the option 2 inside double quotes
