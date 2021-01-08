@@ -89,21 +89,26 @@
 
 
     const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1.In an UP-counter, each flip-flop is triggered by:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "The output of the next flip-flop", ///// Write the option 1 inside double quotes
+                b: "The normal output of the preceding flip-flop", ///// Write the option 2 inside double quotes
+                c: "The clock pulse of the previous flip-flop",
+                d: "The inverted output of the preceding flip-flop",
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "b" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "In digital logic, a counter is a device which",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+        a: "Counts the number of outputs",                  ///// Write the option 1 inside double quotes
+        b: "Stores the number of times a particular event or process has occurred",                  ///// Write the option 2 inside double quotes
+        c: "Stores the number of times a clock pulse rises and falls", 
+        d: "None of the Mentioned",
+              
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
 
