@@ -100,7 +100,7 @@
         },
 
     {
-      question: "In digital logic, a counter is a device which",  ///// Write the question inside double quotes
+      question: "2.In digital logic, a counter is a device which",  ///// Write the question inside double quotes
       answers: {
         a: "Counts the number of outputs",                  ///// Write the option 1 inside double quotes
         b: "Stores the number of times a particular event or process has occurred",                  ///// Write the option 2 inside double quotes
