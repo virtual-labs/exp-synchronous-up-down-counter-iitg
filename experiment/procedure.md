@@ -2,8 +2,9 @@
 
 We used the following components for this experiment-
 
-    IC 7476 (J-K flip-flop) Datasheet
-    IC 7408 (AND gate) Datasheet
+  IC 7476 (J-K flip-flop)[Datasheet](https://www.iitg.ac.in/cseweb/vlab/Digital-System-Lab/pdfs/ic7476.pdf)
+    
+  IC 7408 (AND gate)[Datasheet](https://www.iitg.ac.in/cseweb/vlab/Digital-System-Lab/pdfs/ic7408.pdf)
 
 ### How to make connection:
 
