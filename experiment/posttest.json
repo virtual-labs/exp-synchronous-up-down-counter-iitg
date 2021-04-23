@@ -1,1 +1,19 @@
-[{"question":"1.In an UP-counter, each flip-flop is triggered by:","answers":{"a":"The output of the next flip-flop","b":"The normal output of the preceding flip-flop","c":"The clock pulse of the previous flip-flop","d":"The inverted output of the preceding flip-flop"},"correctAnswer":"b"},{"question":"2.In digital logic, a counter is a device which","answers":{"a":"Counts the number of outputs","b":"Stores the number of times a particular event or process has occurred","c":"Stores the number of times a clock pulse rises and falls","d":"None of the Mentioned"},"correctAnswer":"b"}]
+[{
+	"question": "1.In an UP-counter, each flip-flop is triggered by:",
+	"answers": {
+		"a": "The output of the next flip-flop",
+		"b": "The normal output of the preceding flip-flop",
+		"c": "The clock pulse of the previous flip-flop",
+		"d": "The inverted output of the preceding flip-flop"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "2.In digital logic, a counter is a device which",
+	"answers": {
+		"a": "Counts the number of outputs",
+		"b": "Stores the number of times a particular event or process has occurred",
+		"c": "Stores the number of times a clock pulse rises and falls",
+		"d": "None of the Mentioned"
+	},
+	"correctAnswer": "b"
+}]
